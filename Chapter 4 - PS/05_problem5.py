@@ -1,0 +1,10 @@
+# a = (7,0,8,0,0,9)
+# count = a.count(0)
+# print(count)
+
+b = (1,2,1,2,1,2,3)
+count = b.count(1)
+count1 = b.count(3)
+print(b)
+print(count)
+print(count1)

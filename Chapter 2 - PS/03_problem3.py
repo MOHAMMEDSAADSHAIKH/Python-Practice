@@ -1,0 +1,10 @@
+# a = input('Enter In The Value Of A: ')
+# b = (type(a))
+# # print(b)
+
+# a = input("Enter The Value Of A:- ")
+# c = bool(not(True))
+# b = type(c)
+# print("The value of A that you have entered is:-",a)
+# print(c)
+# print(b)
